@@ -43,6 +43,9 @@ Execute the Jupyter Notebook or Python script that takes care of training and ev
 6. **Making Predictions:**
 Once the model is trained, you can predict on new images using the trained weights. Modify the prediction script to suit your needs.
 
+7. **Pickle File:**
+After running Jupyter Notebook. You will get a `trained_model.h5` file, required in deployment. For more visit my [Kaggle Notebook](https://www.kaggle.com/code/goyaladi/vs-cnn-vgg16-accuracy-93)
+
 
 ## 🚀 Streamlit Deployment
 
